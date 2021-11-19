@@ -1,0 +1,42 @@
+.nav{
+	background-color:#283643;
+	width: 12rem;
+	position: absolute;
+	top:3.5rem;
+	bottom:0;
+	margin-bottom: 0px;
+}
+.content{
+	position: absolute;
+	top:3.5rem;
+	bottom:0;
+	left:12rem;
+	right:0;
+}
+.nav > li > a {
+  padding-right: 2rem;
+  padding-left: 3rem;
+  height: 3rem;
+  text-align: justify;
+  
+}
+.nav> li > a:hover{
+  background-color: #3c4248;
+}
+.form-inline{
+	margin-top: 0.5rem;
+	margin-bottom: 1.5rem;
+}
+.form-group{
+	margin-right:0.5rem;
+	margin-bottom:0.5rem;
+}
+h6{
+	margin-top: 3rem;
+	text-align: justify;
+	color:#6c757d;
+	
+}
+hr{
+	color: #e9ecef;
+}
